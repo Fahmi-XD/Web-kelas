@@ -15,113 +15,41 @@
         "g13.jpg"
     ],
     "siswa": [
-        {
-            "nama": "M Fahmi Mubarok"
-        },
-        {
-            "nama": "Miftahul Huda"
-        },
-        {
-            "nama": "Nita Soleha"
-        },
-        {
-            "nama": "Nurul Azqya"
-        },
-        {
-            "nama": "Arman Mardiansyah"
-        },
-        {
-            "nama": "Ratna Sipa"
-        },
-        {
-            "nama": "M Indrawan"
-        },
-        {
-            "nama": "Alwi Yusuf Wijaya"
-        },
-        {
-            "nama": "Fikri Amrulloh"
-        },
-        {
-            "nama": "Muhammad Irpan Maulana"
-        },
-        {
-            "nama": "Ilham Ramdani"
-        },
-        {
-            "nama": "Syaila Riska Andini"
-        },
-        {
-            "nama": "Sunan Lutfi Albuhory"
-        },
-        {
-            "nama": "Ulfa Salsabila"
-        },
-        {
-            "nama": "Elsa Silvi Nurmala"
-        },
-        {
-            "nama": "Angelita Zahara"
-        },
-        {
-            "nama": "Dita Prasetia"
-        },
-        {
-            "nama": "Rifky Hardiansyah"
-        },
-        {
-            "nama": "Esa Moch Rizki"
-        },
-        {
-            "nama": "Hilma Meilani"
-        },
-        {
-            "nama": "Jesy Aprilia"
-        },
-        {
-            "nama": "M Adrian"
-        },
-        {
-            "nama": "Sri Dewi"
-        },
-        {
-            "nama": "Ernawati Putri"
-        },
-        {
-            "nama": "Mufly Saputra"
-        },
-        {
-            "nama": "Neng Silvi"
-        },
-        {
-            "nama": "Rian Saputra"
-        },
-        {
-            "nama": "Resti Suci Apriani"
-        },
-        {
-            "nama": "Nik Nik Agis Novianti"
-        },
-        {
-            "nama": "Neng Defi"
-        },
-        {
-            "nama": "Syakilla Widya Adzena"
-        },
-        {
-            "nama": "Sinta Pratiwi"
-        },
-        {
-            "nama": "Lilis Yuliastini"
-        },
-        {
-            "nama": "M Latif Saprilah"
-        },
-        {
-            "nama": "Siti Fatimah"
-        },
-        {
-            "nama": "Zahwan Faturahman Hidayat"
-        }
+        { "img": "./image/logo.jpg", "nama": "M Fahmi Mubarok", "isVerified": true },
+        { "img": "./image/logo.jpg", "nama": "Miftahul Huda" },
+        { "img": "./image/logo.jpg", "nama": "Nita Soleha" },
+        { "img": "./image/logo.jpg", "nama": "Nurul Azqya" },
+        { "img": "./image/logo.jpg", "nama": "Arman Mardiansyah" },
+        { "img": "./image/logo.jpg", "nama": "Ratna Sipa" },
+        { "img": "./image/logo.jpg", "nama": "M Indrawan" },
+        { "img": "./image/logo.jpg", "nama": "Alwi Yusuf Wijaya" },
+        { "img": "./image/logo.jpg", "nama": "Fikri Amrulloh" },
+        { "img": "./image/logo.jpg", "nama": "Muhammad Irpan Maulana" },
+        { "img": "./image/logo.jpg", "nama": "Ilham Ramdani" },
+        { "img": "./image/logo.jpg", "nama": "Syaila Riska Andini" },
+        { "img": "./image/logo.jpg", "nama": "Sunan Lutfi Albuhory" },
+        { "img": "./image/logo.jpg", "nama": "Ulfa Salsabila" },
+        { "img": "./image/logo.jpg", "nama": "Elsa Silvi Nurmala" },
+        { "img": "./image/logo.jpg", "nama": "Angelita Zahara" },
+        { "img": "./image/logo.jpg", "nama": "Dita Prasetia" },
+        { "img": "./image/logo.jpg", "nama": "Rifky Hardiansyah" },
+        { "img": "./image/logo.jpg", "nama": "Esa Moch Rizki" },
+        { "img": "./image/logo.jpg", "nama": "Hilma Meilani" },
+        { "img": "./image/logo.jpg", "nama": "Jesy Aprilia" },
+        { "img": "./image/logo.jpg", "nama": "M Adrian" },
+        { "img": "./image/logo.jpg", "nama": "Sri Dewi" },
+        { "img": "./image/logo.jpg", "nama": "Ernawati Putri" },
+        { "img": "./image/logo.jpg", "nama": "Mufly Saputra" },
+        { "img": "./image/logo.jpg", "nama": "Neng Silvi" },
+        { "img": "./image/logo.jpg", "nama": "Rian Saputra" },
+        { "img": "./image/logo.jpg", "nama": "Resti Suci Apriani" },
+        { "img": "./image/logo.jpg", "nama": "Nik Nik Agis Novianti" },
+        { "img": "./image/logo.jpg", "nama": "Neng Defi" },
+        { "img": "./image/logo.jpg", "nama": "Syakilla Widya Adzena" },
+        { "img": "./image/logo.jpg", "nama": "Sinta Pratiwi" },
+        { "img": "./image/logo.jpg", "nama": "Lilis Yuliastini" },
+        { "img": "./image/logo.jpg", "nama": "M Latif Saprilah" },
+        { "img": "./image/logo.jpg", "nama": "Siti Fatimah" },
+        { "img": "./image/logo.jpg", "nama": "Zahwan Faturahman Hidayat" }
     ]
 }
