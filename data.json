@@ -15,7 +15,7 @@
         "g13.jpg"
     ],
     "siswa": [
-        { "img": "./image/logo.jpg", "nama": "M Fahmi Mubarok", "isVerified": true },
+        { "img": "https://avatars.githubusercontent.com/u/121919479?s=96&v=4", "nama": "M Fahmi Mubarok", "isVerified": true },
         { "img": "./image/logo.jpg", "nama": "Miftahul Huda" },
         { "img": "./image/logo.jpg", "nama": "Nita Soleha" },
         { "img": "./image/logo.jpg", "nama": "Nurul Azqya" },
