@@ -8,14 +8,14 @@
         "g6.jpg",
         "g7.jpg",
         "g8.jpg",
-        "g9.jpg",
-        "g10.jpg",
-        "g11.jpg",
-        "g12.jpg",
-        "g13.jpg"
+        "g9.jpg"
     ],
     "siswa": [
-        { "img": "https://avatars.githubusercontent.com/u/121919479?s=96&v=4", "nama": "M Fahmi Mubarok", "isVerified": true },
+        {
+            "img": "https://avatars.githubusercontent.com/u/121919479?s=96&v=4",
+            "nama": "M Fahmi Mubarok",
+            "isVerified": true
+        },
         { "img": "./image/logo.jpg", "nama": "Miftahul Huda" },
         { "img": "./image/logo.jpg", "nama": "Nita Soleha" },
         { "img": "./image/logo.jpg", "nama": "Nurul Azqya" },
@@ -33,7 +33,7 @@
         { "img": "./image/logo.jpg", "nama": "Angelita Zahara" },
         { "img": "./image/logo.jpg", "nama": "Dita Prasetia" },
         { "img": "./image/logo.jpg", "nama": "Rifky Hardiansyah" },
-        { "img": "./image/logo.jpg", "nama": "Esa Moch Rizki" },
+        { "img": "./image/logo.jpg", "nama": "Esa Moch Rizky" },
         { "img": "./image/logo.jpg", "nama": "Hilma Meilani" },
         { "img": "./image/logo.jpg", "nama": "Jesy Aprilia" },
         { "img": "./image/logo.jpg", "nama": "M Adrian" },
